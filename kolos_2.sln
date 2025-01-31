@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kolos_2", "kolos_2\kolos_2.csproj", "{C307CF31-17B0-4C81-B002-3CC0B2291323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolos_2-Zad2", "Kolos_2-Zad2\Kolos_2-Zad2.csproj", "{ECBDD6AD-D672-49E2-A4FD-181BE6E6E165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolos_2-Zad3", "Kolos_2-Zad3\Kolos_2-Zad3.csproj", "{78214262-E1AA-4A33-8C23-CE583143FF55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C307CF31-17B0-4C81-B002-3CC0B2291323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C307CF31-17B0-4C81-B002-3CC0B2291323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C307CF31-17B0-4C81-B002-3CC0B2291323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C307CF31-17B0-4C81-B002-3CC0B2291323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBDD6AD-D672-49E2-A4FD-181BE6E6E165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBDD6AD-D672-49E2-A4FD-181BE6E6E165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBDD6AD-D672-49E2-A4FD-181BE6E6E165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBDD6AD-D672-49E2-A4FD-181BE6E6E165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78214262-E1AA-4A33-8C23-CE583143FF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78214262-E1AA-4A33-8C23-CE583143FF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78214262-E1AA-4A33-8C23-CE583143FF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78214262-E1AA-4A33-8C23-CE583143FF55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

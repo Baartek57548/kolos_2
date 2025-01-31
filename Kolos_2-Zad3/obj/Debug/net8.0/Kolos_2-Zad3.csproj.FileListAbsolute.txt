@@ -1,0 +1,14 @@
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\bin\Debug\net8.0\Kolos_2-Zad3.exe
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\bin\Debug\net8.0\Kolos_2-Zad3.deps.json
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\bin\Debug\net8.0\Kolos_2-Zad3.runtimeconfig.json
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\bin\Debug\net8.0\Kolos_2-Zad3.dll
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\bin\Debug\net8.0\Kolos_2-Zad3.pdb
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\obj\Debug\net8.0\Kolos_2-Zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\obj\Debug\net8.0\Kolos_2-Zad3.AssemblyInfoInputs.cache
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\obj\Debug\net8.0\Kolos_2-Zad3.AssemblyInfo.cs
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\obj\Debug\net8.0\Kolos_2-Zad3.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\obj\Debug\net8.0\Kolos_2-Zad3.dll
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\obj\Debug\net8.0\refint\Kolos_2-Zad3.dll
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\obj\Debug\net8.0\Kolos_2-Zad3.pdb
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\obj\Debug\net8.0\Kolos_2-Zad3.genruntimeconfig.cache
+C:\Users\Bartek\Documents\kolos_2\Kolos_2-Zad3\obj\Debug\net8.0\ref\Kolos_2-Zad3.dll

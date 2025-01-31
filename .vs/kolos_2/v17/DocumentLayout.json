@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Documents\\kolos_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78214262-E1AA-4A33-8C23-CE583143FF55}|Kolos_2-Zad3\\Kolos_2-Zad3.csproj|c:\\users\\bartek\\documents\\kolos_2\\kolos_2-zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78214262-E1AA-4A33-8C23-CE583143FF55}|Kolos_2-Zad3\\Kolos_2-Zad3.csproj|solutionrelative:kolos_2-zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBDD6AD-D672-49E2-A4FD-181BE6E6E165}|Kolos_2-Zad2\\Kolos_2-Zad2.csproj|c:\\users\\bartek\\documents\\kolos_2\\kolos_2-zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBDD6AD-D672-49E2-A4FD-181BE6E6E165}|Kolos_2-Zad2\\Kolos_2-Zad2.csproj|solutionrelative:kolos_2-zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C307CF31-17B0-4C81-B002-3CC0B2291323}|kolos_2\\kolos_2.csproj|c:\\users\\bartek\\documents\\kolos_2\\kolos_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C307CF31-17B0-4C81-B002-3CC0B2291323}|kolos_2\\kolos_2.csproj|solutionrelative:kolos_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Documents\\kolos_2\\Kolos_2-Zad3\\Program.cs",
+              "RelativeDocumentMoniker": "Kolos_2-Zad3\\Program.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Documents\\kolos_2\\Kolos_2-Zad3\\Program.cs",
+              "RelativeToolTip": "Kolos_2-Zad3\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:46:55.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Documents\\kolos_2\\Kolos_2-Zad2\\Program.cs",
+              "RelativeDocumentMoniker": "Kolos_2-Zad2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Documents\\kolos_2\\Kolos_2-Zad2\\Program.cs",
+              "RelativeToolTip": "Kolos_2-Zad2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:45:40.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Documents\\kolos_2\\kolos_2\\Program.cs",
+              "RelativeDocumentMoniker": "kolos_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Documents\\kolos_2\\kolos_2\\Program.cs",
+              "RelativeToolTip": "kolos_2\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:54:00.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

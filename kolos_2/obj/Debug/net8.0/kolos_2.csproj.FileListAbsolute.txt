@@ -1,0 +1,14 @@
+C:\Users\Bartek\Documents\kolos_2\kolos_2\bin\Debug\net8.0\kolos_2.exe
+C:\Users\Bartek\Documents\kolos_2\kolos_2\bin\Debug\net8.0\kolos_2.deps.json
+C:\Users\Bartek\Documents\kolos_2\kolos_2\bin\Debug\net8.0\kolos_2.runtimeconfig.json
+C:\Users\Bartek\Documents\kolos_2\kolos_2\bin\Debug\net8.0\kolos_2.dll
+C:\Users\Bartek\Documents\kolos_2\kolos_2\bin\Debug\net8.0\kolos_2.pdb
+C:\Users\Bartek\Documents\kolos_2\kolos_2\obj\Debug\net8.0\kolos_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Documents\kolos_2\kolos_2\obj\Debug\net8.0\kolos_2.AssemblyInfoInputs.cache
+C:\Users\Bartek\Documents\kolos_2\kolos_2\obj\Debug\net8.0\kolos_2.AssemblyInfo.cs
+C:\Users\Bartek\Documents\kolos_2\kolos_2\obj\Debug\net8.0\kolos_2.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Documents\kolos_2\kolos_2\obj\Debug\net8.0\kolos_2.dll
+C:\Users\Bartek\Documents\kolos_2\kolos_2\obj\Debug\net8.0\refint\kolos_2.dll
+C:\Users\Bartek\Documents\kolos_2\kolos_2\obj\Debug\net8.0\kolos_2.pdb
+C:\Users\Bartek\Documents\kolos_2\kolos_2\obj\Debug\net8.0\kolos_2.genruntimeconfig.cache
+C:\Users\Bartek\Documents\kolos_2\kolos_2\obj\Debug\net8.0\ref\kolos_2.dll
